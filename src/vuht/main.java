@@ -26,5 +26,17 @@ public class main {
         System.out.println("-5!: "+getFactorial(-5));
         // in thu PI coi co giong Math.PI khong?
         System.out.println("Pi: "+PI);
+        //muon ket luan ham minh on, ngon ta phai nhin bang mat ket qua chay cua ham
+        //va so sanh ki vong
+        //lam tung truong hop chay ham test case
+        //cach nay on nhung mat suc
+        
+        //Nang Cao+ dung may sac xanh do ket luon
+        //ta thay xanh, ham y moi tinh huong on
+        //ta thay do, chi mot thang mau do,coi nhu ham toang
+        //t sai them mot frameword, unit test ten chung
+        //JUNIT, TESTING, NUNIT, ... la nhung frameword cu the de giup test ham
+        //mot cach hieu qua
+        //dung no tich hop vao mot qui trinh lam phan mem -CI/CT
     }
 }
