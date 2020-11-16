@@ -21,6 +21,7 @@ public class MathUtinityTest {
     @Test
     public void getFactorial_RunsWell_ifValidArgument() {
         assertEquals(720, getFactorial(6));
+        assertEquals(1, getFactorial(0));
     }
     //can test coi co nem ve ngoai le khong
     @Test(expected = SQLException.class)
