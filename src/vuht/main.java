@@ -22,6 +22,8 @@ public class main {
         
         //expected: 720 if tinh 0!
         System.out.println("0!: "+getFactorial(0));
+        System.out.println("Goodbye");
+        System.out.println("GREEN ICON");
         //expected: IllegalArgumentException if tinh -5;
         System.out.println("-5!: "+getFactorial(-5));
         // in thu PI coi co giong Math.PI khong?
